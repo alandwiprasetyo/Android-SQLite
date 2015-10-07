@@ -23,7 +23,6 @@ public class MainActivity extends ListActivity  implements View.OnClickListener{
     Button btnAdd,btnGetAll;
     TextView student_Id;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
